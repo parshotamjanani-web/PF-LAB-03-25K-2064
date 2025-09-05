@@ -1,7 +1,8 @@
-# PF-LAB-03-25K-2064  
-aboutme.md
+# PF-LAB-03-25K-2064
+Describng Myself and why I intreted in programming
 
 
-My Name is pirshotam Das
-Currently I am studying BS Cyber Security in FAST University karachi.
-And my hobby is to learn dail new skills.
+My name is pirshotam das 
+currently I am stydying in FAST-NUCES karachi.
+And I am motivated person who loves learning new things daily and improving myself.
+I am intrested to learn today's modern programming and how it is work
