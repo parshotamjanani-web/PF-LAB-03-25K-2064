@@ -3,5 +3,5 @@ aboutme.md
 
 
 My Name is pirshotam Das
-Currently I am stydying BS Cyber Security in FAST University karachi.
+Currently I am studying BS Cyber Security in FAST University karachi.
 And my hobby is to learn dail new skills.
