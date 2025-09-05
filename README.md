@@ -5,16 +5,12 @@ MY Name is pirshotam Das
 I am motivated who loves to daily new skills and improv my self daily
 And it's really intresting that how in today's word programming and networks work that why Iam really intrested to know that.
 
-My favourite sports:
+# My favourite sports:
 1. cricket
 2. table tennis
 3. hockey
 - cricket
 - table tennis
 - hockey
-*rffcretrr jh*
-  cricket footbal hockey
-*_jdf_*
-  _efewgesg_
-  _*hbhjfbejh*_ 
-  cricket footbal hockey
+  __*cricket*__ __*footbal*__ __*hockey__*
+  _cricket_ _footbal_ _hockey_
